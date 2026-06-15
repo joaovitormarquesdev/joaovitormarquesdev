@@ -16,10 +16,9 @@
 
 ## 👨‍💻 Sobre mim
 
-Analista de Suporte de TI com atuação em órgãos públicos federais e estaduais. Atualmente na **CODEVASF** (via CTC), operando como único profissional de suporte presencial da superintendência regional — equipe de N3 baseada em outro estado, SLA cumprido sem supervisão presencial.
+Analista de TI com atuação em órgãos públicos federais e estaduais. Atualmente na **CODEVASF**, operando como profissional de TI da superintendência regionalm juntamente com gestão administrativa e patrimonial de TI do orgão.
 
-Formação em andamento: **Sistemas para Internet** no IFTO (conclusão prevista 2028). Não venho da área de desenvolvimento — minha base é sólida em infraestrutura, suporte e gestão de serviços de TI. Código aparece aqui como ferramenta para resolver problemas reais.
-
+Formação em andamento: **Sistemas para Internet** no IFTO (conclusão prevista 2028).  Minha base é sólida em infraestrutura, suporte e gestão de serviços de TI. Meus repositorios são ideias para solucionar problemas
 ---
 
 ## 🛠️ Stack & Ferramentas
@@ -65,11 +64,6 @@ Suporte técnico alocado na CODEVASF. Gestão de chamados via GLPI, Active Direc
 **Analista de Suporte — SEFAZ-TO** *(nov/2025 – abr/2026)*
 Estágio em suporte N1/N2 na Secretaria da Fazenda do Tocantins. Atendimento presencial em múltiplos anexos do órgão.
 
-**Técnico de TI — Freelance** *(nov/2024 – fev/2025)*
-Atendimento autônomo para clientes residenciais e empresas: manutenção de hardware, configuração de redes e SO.
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -88,7 +82,5 @@ Atendimento autônomo para clientes residenciais e empresas: manutenção de har
 ---
 
 <div align="center">
-
-*"Suporte bem feito é invisível — o usuário só percebe quando falta."*
 
 </div>
