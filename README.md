@@ -16,9 +16,10 @@
 
 ## 👨‍💻 Sobre mim
 
-Analista de TI com atuação em órgãos públicos federais e estaduais. Atualmente na **CODEVASF**, operando como profissional de TI da superintendência regionalm juntamente com gestão administrativa e patrimonial de TI do orgão.
+Analista de TI com atuação em órgãos públicos federais e estaduais. Atualmente na **CODEVASF**, operando como profissional de TI da superintendência regional — com gestão administrativa e patrimonial de TI do órgão.
 
-Formação em andamento: **Sistemas para Internet** no IFTO (conclusão prevista 2028).  Minha base é sólida em infraestrutura, suporte e gestão de serviços de TI. Meus repositorios são ideias para solucionar problemas
+Formação em andamento: **Sistemas para Internet** no IFTO (conclusão prevista 2028). Minha base é sólida em infraestrutura, suporte e gestão de serviços de TI. Os repositórios aqui são ideias para resolver problemas reais.
+
 ---
 
 ## 🛠️ Stack & Ferramentas
@@ -27,9 +28,6 @@ Formação em andamento: **Sistemas para Internet** no IFTO (conclusão prevista
 
 ![GLPI](https://img.shields.io/badge/GLPI-009BDE?style=for-the-badge&logo=data:image/png;base64,&logoColor=white)
 ![ITSM](https://img.shields.io/badge/ITSM-0078D4?style=for-the-badge&logoColor=white)
-
-**Identidade & Acesso**
-
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Office 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
@@ -38,12 +36,27 @@ Formação em andamento: **Sistemas para Internet** no IFTO (conclusão prevista
 ![Windows](https://img.shields.io/badge/Windows_10%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Em aprendizado**
+**Stacks**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
+---
+
+## 🏠 HomeLab
+
+Aprendo diariamente com meu homelab em casa, onde utilizo para colocar meus estudos de infraestrutura em pratica 
+
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+Utilizo para aprender redes, Active Directory em lab, containers e monitoramento de serviços — tudo no rack de casa.
 ---
 
 ## 🏅 Certificações
@@ -62,7 +75,12 @@ Formação em andamento: **Sistemas para Internet** no IFTO (conclusão prevista
 Suporte técnico alocado na CODEVASF. Gestão de chamados via GLPI, Active Directory, Office 365, diagnóstico de incidentes e participação na implantação do chatbot "Chiquinho" (17% dos chamados registrados na primeira semana em produção).
 
 **Analista de Suporte — SEFAZ-TO** *(nov/2025 – abr/2026)*
-Estágio em suporte N1/N2 na Secretaria da Fazenda do Tocantins. Atendimento presencial em múltiplos anexos do órgão.
+Estágio em Analista de suporte na Secretaria da Fazenda do Tocantins(SEFAZ/TO). Atendimento presencial e remoto em múltiplos anexos do órgão.
+
+**Técnico de TI — Freelance** *(nov/2024 – fev/2025)*
+Atendimento autônomo para clientes residenciais e empresas: manutenção de hardware, configuração de redes e SO.
+
+---
 
 ## 📊 GitHub Stats
 
@@ -82,5 +100,4 @@ Estágio em suporte N1/N2 na Secretaria da Fazenda do Tocantins. Atendimento pre
 ---
 
 <div align="center">
-
 </div>
