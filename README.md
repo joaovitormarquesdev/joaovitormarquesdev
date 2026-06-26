@@ -16,10 +16,9 @@
 
 ## 👨‍💻 Sobre mim
 
-Analista de TI com atuação em órgãos públicos federais e estaduais. Atualmente na **CODEVASF**, operando como profissional de TI da superintendência regional — com gestão administrativa e patrimonial de TI do órgão.
+Analista de TI com atuação em órgãos públicos federais e estaduais.
 
-Formação em andamento: **Sistemas para Internet** no IFTO (conclusão prevista 2028). Minha base é sólida em infraestrutura, suporte e gestão de serviços de TI. Os repositórios aqui são ideias para resolver problemas reais.
-
+Formação em andamento: **Sistemas para Internet** no IFTO (conclusão prevista 2028). Minha base é sólida em infraestrutura, suporte e gestão de serviços de TI.
 ---
 
 ## 🛠️ Stack & Ferramentas
@@ -44,20 +43,6 @@ Formação em andamento: **Sistemas para Internet** no IFTO (conclusão prevista
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## 🏠 HomeLab
-
-Aprendo diariamente com meu homelab em casa, onde utilizo para colocar meus estudos de infraestrutura em pratica 
-
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-Utilizo para aprender redes, Active Directory em lab, containers e monitoramento de serviços — tudo no rack de casa.
----
 
 ## 🏅 Certificações
 
